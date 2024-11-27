@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://nexusgit.info">
+  <a href="https://distrack-website.vercel.app">
     <img src="./DisTrack.gif" title="<3">
   </a>
 </p>
