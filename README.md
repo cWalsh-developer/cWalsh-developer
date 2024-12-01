@@ -9,4 +9,6 @@
   </a>
 </p>
 
-![Metrics](./github-metrics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" title="<3">
+</p>
