@@ -9,4 +9,4 @@
   </a>
 </p>
 
-![Metrics](https://github.com/JayNightmare/JayNightmare/blob/master/github-metrics.svg)
+![Metrics](./metrics.svg)
