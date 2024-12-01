@@ -8,3 +8,5 @@
     <img src="./DisTrack.gif" title="<3">
   </a>
 </p>
+
+![Metrics](https://github.com/JayNightmare/JayNightmare/blob/master/github-metrics.svg)
