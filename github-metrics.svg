@@ -2374,7 +2374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zjc062/mind-vis</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code base for MinD-Vis</div>
@@ -2427,7 +2427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jqin4749/MindVideo</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official code base for MinD-Video</div>
@@ -2474,7 +2474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>appbrewery/public-api-lists</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collective list of free APIs for use in software and web development 🚀</div>
@@ -2849,7 +2849,7 @@ Reversed Module/User List Order for easier test for adding items.
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="137.95 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="138.46666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2871,7 +2871,7 @@ Reversed Module/User List Order for easier test for adding items.
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 467 times</div>
+                                <div class="text">Repositories have been deployed 468 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3185,7 +3185,7 @@ Reversed Module/User List Order for easier test for adding items.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.65m out of 223m repositories</span>
+                                    <span class="gh">ranked 3.65m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3376,7 +3376,7 @@ Reversed Module/User List Order for easier test for adding items.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2024, 13:06:40 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2024, 14:02:13 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
