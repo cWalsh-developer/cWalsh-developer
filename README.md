@@ -29,3 +29,7 @@
 <p align="center">
   <img src="./github-metrics.svg" title="<3">
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaynightmare&style=flat-square" title="<3">
+</p>
