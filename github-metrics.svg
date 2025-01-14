@@ -2352,7 +2352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayNightmare/Pub-Restock-Manager</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A way to quickly restock drinks, food, and other items</div>
@@ -2854,7 +2854,7 @@ Refactor, split and cleanup</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="40.61 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="40.71333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2876,7 +2876,7 @@ Refactor, split and cleanup</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1393 times</div>
+                                <div class="text">Repositories have been deployed 1394 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3258,7 +3258,7 @@ Refactor, split and cleanup</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.68m out of 216m repositories</span>
+                                    <span class="gh">ranked 3.68m out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3449,7 +3449,7 @@ Refactor, split and cleanup</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jan 2025, 01:28:45 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jan 2025, 02:20:22 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
