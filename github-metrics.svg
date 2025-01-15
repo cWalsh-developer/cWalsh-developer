@@ -2798,7 +2798,7 @@ Filtering is now done server-side in Discord</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.63999999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.74333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2820,7 +2820,7 @@ Filtering is now done server-side in Discord</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1432 times</div>
+                                <div class="text">Repositories have been deployed 1433 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3202,7 +3202,7 @@ Filtering is now done server-side in Discord</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.68m out of 218m repositories</span>
+                                    <span class="gh">ranked 3.68m out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3393,7 +3393,7 @@ Filtering is now done server-side in Discord</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jan 2025, 15:02:20 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jan 2025, 16:02:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
