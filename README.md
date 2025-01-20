@@ -7,7 +7,10 @@
   </a>
 </p>
  
-<div align="center">
+<div align="center" >
+  <div>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/jordanbell321.png" alt="<3" />
+  </div>
   <div>
     <!--
     <div>
@@ -20,8 +23,10 @@
     </div>
     <br/> 
     -->
+  </div>
+  <div>
     <a href="https://discord.com/users/373097473553727488">
-      <img src="https://lanyard.cnrad.dev/api/373097473553727488?bg=333333&borderRadius=10px" />
+      <img src="https://lanyard.cnrad.dev/api/373097473553727488?bg=333333&borderRadius=10px" alt="<3" />
     </a>
   </div>
 </div>
