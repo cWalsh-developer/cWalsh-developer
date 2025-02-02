@@ -9,7 +9,7 @@
  
 <div align="center" >
   <div>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/JayNightmare.png" alt="<3" />
+    
   </div>
   <div>
     <!--
