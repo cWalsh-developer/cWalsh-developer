@@ -1,18 +1,25 @@
 <p align="center">
-  <a href="https://nexusgit.info" target="_blank" rel="noopener">
-    <img src="./NexusGit.gif" title="<3">
-  </a>
-  <a href="https://distrack-website.vercel.app" target="_blank" rel="noopener">
-    <img src="./DisTrack.gif" title="<3">
-  </a>
+  <h3 align="center">Vist my sites:</h3>
+  <div align="center">
+    <a href="https://nexusgit.info" target="_blank" rel="noopener">
+      <img src="./NexusGit.gif" title="<3">
+    </a>
+    <a href="https://distrack-website.vercel.app" target="_blank" rel="noopener">
+      <img src="./DisTrack.gif" title="<3">
+    </a>
+  </div>
 </p>
+
+---
  
-<div align="center" >
-  <div>
+<div align="center">
+  <h3 align="center">My Activity:</h3>
+  <div align="center">
     
   ![image](https://github.com/user-attachments/assets/f2a424b3-dfe0-4e5b-b9ec-8d1325898255)
     
   </div>
+
   <div>
     <!--
     <div>
@@ -33,10 +40,20 @@
   </div>
 </div>
 
-<p align="center">
-  <img src="./github-metrics.svg" title="<3">
-</p>
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaynightmare&style=flat-square" title="<3">
+  <h3 align="center">My Stats:</h3>
+  <div align="center">
+    <img src="./github-metrics.svg" title="<3">
+  </div>
+</p>
+
+---
+
+<p align="center">
+  <h3 align="center">Github Views:</h3>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=jaynightmare&style=flat-square" title="<3">
+  </div>
 </p>
