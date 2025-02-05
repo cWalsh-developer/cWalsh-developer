@@ -45,7 +45,13 @@
 <p align="center">
   <h3 align="center">My Stats:</h3>
   <div align="center">
-    <img src="./github-metrics.svg" title="<3">
+    
+  [![Jays's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayNightmare)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+
+
+  <div align="center">
+      <img src="./github-metrics.svg" title="<3">
   </div>
 </p>
 
