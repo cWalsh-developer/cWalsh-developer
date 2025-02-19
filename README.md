@@ -1,3 +1,23 @@
+[![JayNightmare's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JayNightmare&hide_border=true&theme=high-contrast)](https://github.com/JayNightmare/github-readme-activity-graph)
+
+# Hi there, I'm JayNightmare! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
+
+## 🚀 About Me
+- 🌱 I’m currently learning advanced web development and cloud computing.
+- 👯 I’m looking to collaborate on open-source projects and interesting coding challenges.
+- 💬 Ask me about anything related to JavaScript, Python, or DevOps.
+- 📫 How to reach me: [jn3.enquiries@gmail.com](mailto:jn3.enquiries@gmail.com)
+- ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy playing the guitar in my free time.
+
+## 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks/Libraries:** React, Node.js, Django, Flask
+- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **Cloud:** AWS, Azure, Google Cloud Platform
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
 <p align="center">
   <h3 align="center">Vist my sites:</h3>
   <div align="center">
@@ -46,9 +66,15 @@
   <h3 align="center">My Stats:</h3>
   <div align="center">
     
-  [![Jays's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayNightmare)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+![JayNightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayNightmare&show_icons=true&theme=radical)
+</div>
 
+<p align="center">
+  <h3 align="center">GitHub Streak:</h3>
+  <div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayNightmare&theme=radical)
+</div>
 
   <div align="center">
       <img src="./github-metrics.svg" title="<3">
