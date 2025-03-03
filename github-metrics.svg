@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.880521854999" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="247.880521854999" y="0" width="135.00964802062143" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="382.8901698756204" y="0" width="32.742490574097666" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="415.63266044971806" y="0" width="19.048265804574463" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="434.6809262542925" y="0" width="10.48895490522473" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="445.1698811595172" y="0" width="6.644343317540963" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="451.8142244770582" y="0" width="5.964641427973522" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.7788659050317" y="0" width="2.221134094968251" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.8218246821858" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="247.8218246821858" y="0" width="134.97767824509407" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="382.79950292727983" y="0" width="32.73473727580226" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="415.5342402030821" y="0" width="19.043755247063306" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="434.57799545014535" y="0" width="10.595397425588613" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="445.173392875734" y="0" width="6.642769962099313" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="451.8161628378333" y="0" width="5.963229023376152" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.77939186120943" y="0" width="2.220608138790501" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2735,7 +2735,7 @@ Added a check to see if the book added is unique</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="180.52333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="180.62666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2757,7 +2757,7 @@ Added a check to see if the book added is unique</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2747 times</div>
+                                <div class="text">Repositories have been deployed 2748 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3172,7 +3172,7 @@ Added a check to see if the book added is unique</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.72m out of 229m repositories</span>
+                                    <span class="gh">ranked 3.72m out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3330,7 +3330,7 @@ Added a check to see if the book added is unique</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2025, 09:02:20 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Mar 2025, 10:02:14 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
