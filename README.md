@@ -1,5 +1,6 @@
 [![JayNightmare's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JayNightmare&hide_border=true&theme=high-contrast)](https://github.com/JayNightmare/github-readme-activity-graph)
 
+
 # Hi there, I'm JayNightmare! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
