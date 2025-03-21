@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
-          user: JayNightmare
+          user: cWalsh-developer
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
