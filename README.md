@@ -1,7 +1,7 @@
-[![JayNightmare's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JayNightmare&hide_border=true&theme=high-contrast)](https://github.com/JayNightmare/github-readme-activity-graph)
+[![cWalsh-developer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cWalsh-developer&hide_border=true&theme=high-contrast)](https://github.com/cWalsh-developer/github-readme-activity-graph)
 
 
-# Hi there, I'm JayNightmare! 👋
+# Hi there, I'm cWalsh-developer! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
 
@@ -67,14 +67,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   <h3 align="center">My Stats:</h3>
   <div align="center">
     
-![JayNightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayNightmare&show_icons=true&theme=radical)
+![cWalsh-developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cWalsh-developer&show_icons=true&theme=radical)
 </div>
 
 <p align="center">
   <h3 align="center">GitHub Streak:</h3>
   <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayNightmare&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cWalsh-developer&theme=radical)
 </div>
 
   <div align="center">
@@ -87,6 +87,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 <p align="center">
   <h3 align="center">Github Views:</h3>
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=jaynightmare&style=flat-square" title="<3">
+    <img src="https://komarev.com/ghpvc/?username=cWalsh-developer&style=flat-square" title="<3">
   </div>
 </p>
