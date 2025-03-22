@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy playing the guitar in my free time.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Django, Flask
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
-- **Cloud:** AWS, Azure, Google Cloud Platform
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:** JavaScript, Python, Java, Kotlin, React Native
+- **Frameworks/Libraries:** React, Node.js
+- **DevOps:** GitHub Actions
+- **Cloud:** AWS
+- **Databases:** MySQL, SQL, Google Firebase, OracleApex
 
 <p align="center">
   <h3 align="center">Vist my sites:</h3>
@@ -38,11 +38,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   <div align="center">
     <div>
       <p>Languages:</p>
-      <img src='https://skillicons.dev/icons?i=androidstudio,astro,bash,bitbucket,blender,bootstrap,c,codepen,css,discord,bots,discordjs,docker,figma,github,githubactions,gitlab,html,java,js,jquery,kotlin,&perline=4' />
+      <img src='https://skillicons.dev/icons?i=bash,bootstrap,css,HTML,regex,react,java,js,py,jquery,kotlin,aws,php,&perline=4' />
     </div>
     <div>
       <p>Tools:</p>
-      <img src='https://skillicons.dev/icons?i=androidstudio,blender,codepen,discord,figma,github,githubactions,gitlab&perline=4' />
+      <img src='https://skillicons.dev/icons?i=androidstudio,atom,vscode,npm,stackoverflow,firebase,discord,bitbucket,codepen,figma,github,linkedin,ps,githubactions,gitlab&perline=4' />
     </div>
   <br/> 
     
