@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy performing magic in my spare time.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java, Kotlin, React Native
-- **Frameworks/Libraries:** React, Node.js, Sci-kit-learn
+- **Languages:** JavaScript, Python, Java, Kotlin
+- **Frameworks/Libraries:** React Native, Node.js, Sci-kit-learn, Numpy, Matplotlib
 - **DevOps:** GitHub, Bitbucket
-- **Cloud:** AWS
+- **Cloud:** AWS, REST API
 - **Databases:** MySQL, SQL, Google Firebase, OracleApex, Room, SQLite, Tableau
 
 ---
