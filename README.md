@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, Java, Kotlin, React Native
-- **Frameworks/Libraries:** React, Node.js
+- **Frameworks/Libraries:** React, Node.js, Sci-kit-learn
 - **DevOps:** GitHub, Bitbucket
 - **Cloud:** AWS
-- **Databases:** MySQL, SQL, Google Firebase, OracleApex
+- **Databases:** MySQL, SQL, Google Firebase, OracleApex, Room, SQLite, Tableau
 
 ---
  
