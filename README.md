@@ -9,13 +9,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - 🌱 I’m currently learning advanced web development and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects and interesting coding challenges.
 - 💬 Ask me about anything related to JavaScript, Python, or DevOps.
-- 📫 How to reach me: [your email](mailto:xxxx)
-- ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy playing the guitar in my free time.
+- 📫 How to reach me: [connor_w_98@hotmail.com](mailto:connor_w_98@hotmail.com)
+- ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy performing magic in my spare time.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, Java, Kotlin, React Native
 - **Frameworks/Libraries:** React, Node.js
-- **DevOps:** GitHub Actions
+- **DevOps:** GitHub, Bitbucket
 - **Cloud:** AWS
 - **Databases:** MySQL, SQL, Google Firebase, OracleApex
 
