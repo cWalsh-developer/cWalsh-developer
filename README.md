@@ -19,18 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - **Cloud:** AWS
 - **Databases:** MySQL, SQL, Google Firebase, OracleApex
 
-<p align="center">
-  <h3 align="center">Vist my sites:</h3>
-  <div align="center">
-    <a href="https://nexusgit.info" target="_blank" rel="noopener">
-      <img src="./NexusGit.gif" title="<3">
-    </a>
-    <a href="https://distrack-website.vercel.app" target="_blank" rel="noopener">
-      <img src="./DisTrack.gif" title="<3">
-    </a>
-  </div>
-</p>
-
 ---
  
 <div align="center">
