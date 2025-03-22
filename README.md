@@ -26,11 +26,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   <div align="center">
     <div>
       <p>Languages:</p>
-      <img src='https://skillicons.dev/icons?i=bash,bootstrap,css,HTML,regex,react,java,js,py,jquery,kotlin,aws,php,sql,&perline=4' />
+      <img src='https://skillicons.dev/icons?i=bash,bootstrap,css,HTML,regex,react,java,js,py,jquery,kotlin,aws,php,MySQL,sqllite,&perline=4' />
     </div>
     <div>
       <p>Tools:</p>
-      <img src='https://skillicons.dev/icons?i=androidstudio,atom,vscode,npm,stackoverflow,firebase,discord,bitbucket,codepen,figma,github,linkedin,ps,githubactions,gitlab&perline=4' />
+      <img src='https://skillicons.dev/icons?i=androidstudio,atom,vscode,npm,git,stackoverflow,firebase,discord,bitbucket,codepen,figma,github,linkedin,ps,githubactions,gitlab&perline=4' />
     </div>
   <br/> 
     
