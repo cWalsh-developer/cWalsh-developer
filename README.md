@@ -6,7 +6,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
 
 ## 🚀 About Me
-- 🌱 I’m currently learning advanced web development and cloud computing.
+- 🌱 I’m currently learning mobile application development, advanced web development and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects and interesting coding challenges.
 - 💬 Ask me about anything related to JavaScript, Python, or DevOps.
 - 📫 How to reach me: [connor_w_98@hotmail.com](mailto:connor_w_98@hotmail.com)
