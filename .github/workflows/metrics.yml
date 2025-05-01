@@ -21,7 +21,7 @@ jobs:
           # Options
           user: cWalsh-developer
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata, achievements
           config_timezone: Europe/London
 
           # Achievements
