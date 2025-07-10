@@ -13,11 +13,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy performing magic in my spare time.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, PHP, Java, Kotlin
-- **Frameworks/Libraries:** React Native, Node.js, Sci-kit-learn, Numpy, Matplotlib, Pandas
-- **DevOps:** GitHub, Bitbucket
-- **Cloud:** AWS, REST API
-- **Databases:** MySQL, SQL, Google Firebase, OracleApex, Room, SQLite, Tableau
+
+- **Languages:** JavaScript, Python, PHP, Java, Kotlin  
+- **Frameworks & Libraries:** React Native, Node.js, Scikit-learn, NumPy  
+- **Version Control:** GitHub, Bitbucket  
+- **Cloud & Backend Services:** AWS, Firebase, Oracle APEX  
+- **API Development & Testing:** REST APIs, Postman  
+- **Databases:** MySQL, PostgreSQL, SQLite, Room (Android), Firebase Realtime Database, Oracle APEX  
+- **Data Analysis & Visualization:** Pandas, Matplotlib, Tableau 
 
 ---
  
