@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
     </div>
     <div>
       <p>Tools:</p>
-      <img src='https://skillicons.dev/icons?i=androidstudio,atom,gradle,vscode,npm,git,stackoverflow,firebase,discord,bitbucket,codepen,figma,github,linkedin,ps,githubactions,gitlab&perline=4' />
+      <img src='https://skillicons.dev/icons?i=androidstudio,atom,gradle,vscode,npm,git,stackoverflow,firebase,discord,bitbucket,codepen,figma,github,linkedin,ps,postman,postgres,githubactions,gitlab&perline=4' />
     </div>
   <br/> 
     
