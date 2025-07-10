@@ -3,6 +3,10 @@
 
 # Hi there, I'm cWalsh-developer! 👋
 
+<div>
+ <img src = "./terminal.gif" alt = "Skills Terminal"/>
+</div>
+
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
 
 ## 🚀 About Me
