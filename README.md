@@ -1,8 +1,10 @@
 [![cWalsh-developer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cWalsh-developer&hide_border=true&theme=high-contrast)](https://github.com/cWalsh-developer/github-readme-activity-graph)
 
-
+<div align=center>
+ 
 # Hi there, I'm cWalsh-developer! 👋
 
+</div>
 <div>
  <img src = "./skills-terminal.gif" alt = "Skills Terminal"/>
 </div>
