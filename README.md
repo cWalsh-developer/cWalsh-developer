@@ -5,7 +5,7 @@
 # Hi there, I'm cWalsh-developer! 👋
 
 </div>
-<div>
+<div align=center>
  <img src = "./skills-terminal.gif" alt = "Skills Terminal"/>
 </div>
 
