@@ -45,7 +45,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
     
   </div>
 </div>
----
+
+---------
+
 <div align = center>
 
  # Favourite Technologies and Tools 🧰👨‍💻👍
