@@ -45,7 +45,31 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
     
   </div>
 </div>
+---
+<div align = center>
 
+ # Favourite Technologies and Tools 🧰👨‍💻👍
+
+ </div>
+
+ <p align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" />
+</p>
+
+
+ 
 ---
 
 <p align="center">
