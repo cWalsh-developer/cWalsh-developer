@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   <h3 align="center">My Activity:</h3>
   <div align="center">
     <div>
-      <p>Languages:</p>
-      <img src='https://skillicons.dev/icons?i=bash,bootstrap,css,html,regex,react,java,js,py,jquery,kotlin,aws,php,mysql,sqlite,&perline=4' />
+      <p>Languages, Frameworks & Librariees:</p>
+      <img src='https://skillicons.dev/icons?i=bash,bootstrap,css,html,regex,react,java,js,py,jquery,kotlin,fastapi,aws,php,mysql,sqlite,&perline=4' />
     </div>
     <div>
       <p>Tools:</p>
