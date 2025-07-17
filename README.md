@@ -30,23 +30,19 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ---
  
-<h1 align="center">My Activity</h1>
-
-<div align=center>
- 
- ## 👨‍💻 Languages, Libraries and Frameworks
- 
-</div>
+<h1 align="center">My Activity 
+ <br>
+ <br>
+ 👨‍💻 Languages, Libraries and Frameworks
+</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,html,regex,react,java,js,py,jquery,kotlin,fastapi,aws,php,mysql,sqlite&perline=4" />
 </p>
 
-<div align=center>
- 
- ## 🛠️ Tools
- 
-</div>
+<h1 align="center">
+ 🛠️ Tools
+</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,atom,gradle,vscode,npm,git,stackoverflow,firebase,discord,bitbucket,codepen,figma,github,linkedin,ps,postman,postgres,githubactions,gitlab&perline=4" />
@@ -55,7 +51,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ---------
 
 <div align = center>
-
+<br>
+ 
  # Favourite Technologies and Tools 🧰👨‍💻👍
 
  </div>
