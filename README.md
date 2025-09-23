@@ -99,6 +99,31 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ---
 
+---
+
+## 🌟 Featured Projects
+
+- **[SafeMap](https://github.com/cWalsh-developer/SafeMap)**  
+  *Kotlin, Firebase*  
+  Final year university project: an Android navigation app designed to improve the safety of vulnerable people such as the elderly and disabled.  
+  - Displays streetlight locations so users can choose well-lit routes.  
+  - Dynamically re-routes paths to prioritize safer streets.  
+  - Provides haptic vibration navigation cues (left/right) so users don’t need to look at their phones.  
+
+- **[PhunParty – Mobile App](https://github.com/cWalsh-developer/PhunParty_Mobile_App)**  
+  *React Native (Expo Router, TypeScript)*  
+  Developed the cross-platform mobile app where players join trivia sessions via QR code and answer questions from their devices. Focused on client-side architecture, session joining logic, and UI/UX design.  
+
+- **[PhunParty – API Backend](https://github.com/cWalsh-developer/PhunParty)**  
+  *Python (FastAPI), PostgreSQL, Linode*  
+  Designed and implemented the backend API that powers game sessions, including session management, trivia question handling, and database persistence. Deployed to Linode with PostgreSQL integration and tested for scalability.  
+
+- **[PhunParty – Web Host](https://github.com/JayNightmare/PhunParty-Website)**  
+  *React (Tailwind)*  
+  Collaborative project component: built the hosting interface where users can create trivia sessions, generate questions, and display session QR codes for players to join.
+
+---
+
 <p align="center">
   <h3 align="center">Github Views:</h3>
   <div align="center">
