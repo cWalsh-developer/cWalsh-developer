@@ -60,6 +60,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
  <p align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
   &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></div>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
