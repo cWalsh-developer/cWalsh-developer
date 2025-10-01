@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🚀 About Me
 - 🌱 I’m currently learning mobile application development, advanced web development and cloud computing.
-- 👯 I’m looking to collaborate on open-source projects and interesting coding challenges.
-- 💬 Ask me about anything related to JavaScript, Python, or DevOps.
+- 👯 I’m looking to collaborate on open-source projects and expand my knowledge base.
+- 💬 Ask me about anything related to Mobile Development, Java, DevOps or Backend Development.
 - 📫 How to reach me: [connor_w_98@hotmail.com](mailto:connor_w_98@hotmail.com)
 - ⚡ Fun fact: I am a huge fan of sci-fi movies and enjoy performing magic in my spare time.
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - **Frameworks & Libraries:** React Native, Node.js, Scikit-learn, NumPy  
 - **Version Control:** GitHub, Bitbucket  
 - **Cloud & Backend Services:** AWS, Firebase, Oracle APEX  
-- **API Development & Testing:** REST APIs, Postman  
+- **API Development & Testing:** REST APIs, Postman, FastAPI 
 - **Databases:** MySQL, PostgreSQL, SQLite, Room (Android), Firebase Realtime Database, Oracle APEX  
 - **Data Analysis & Visualization:** Pandas, Matplotlib, Tableau 
 
