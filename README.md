@@ -72,6 +72,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
 </p>
 
 
