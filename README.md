@@ -85,6 +85,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   <div align="center">
     
 ![cWalsh-developer's GitHub stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 </div>
 
 <p align="center">
