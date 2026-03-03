@@ -84,7 +84,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   <h3 align="center">My Stats:</h3>
   <div align="center">
     
-![cWalsh-developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cWalsh-developer&show_icons=true&theme=radical)
+![cWalsh-developer's GitHub stats](./profile/stats.svg)
 </div>
 
 <p align="center">
