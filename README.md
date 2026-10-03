@@ -1,5 +1,4 @@
-[![cWalsh-developer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cWalsh-developer&hide_border=true&theme=high-contrast)](https://github.com/cWalsh-developer/github-readme-activity-graph)
-
+[![cWalsh-developer's GitHubCard](https://githubcard.com/cWalsh-developer.svg?d=ULx_xzRvgEZs)](https://githubcard.com/cWalsh-developer/card?utm_source=github&utm_medium=readme)
 <div align=center>
  
 # Hi there, I'm cWalsh-developer! 👋
